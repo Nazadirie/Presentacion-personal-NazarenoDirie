@@ -5,7 +5,7 @@
 
 
 
-# Hola soy, Nazarneo Dirie 
+# Hola soy, Nazareno Dirie 
 
 ### Acerca de mi:
 - Estudio Programacion E informatica en la Universidad Nacional de Hurlingham. Vivo en Moreno prov. de Bs.As. Antes estudiaba Lic. en Kinesiologia y Fisiatria, hice 2 años de la licenciatura  pero luego de la pandemia decidi cambiar de carrera.
